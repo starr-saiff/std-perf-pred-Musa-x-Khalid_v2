@@ -1,0 +1,38 @@
+{
+  "row_index_in_sample": 0,
+  "explained_class": "Fail",
+  "lime_feature_weights": [
+    [
+      "-1.47 < avg_score_early <= 0.43",
+      0.07848048589054236
+    ],
+    [
+      "0.00 < highest_education_Lower Than A Level <= 1.00",
+      0.07781955356749752
+    ],
+    [
+      "module_presentation_length <= -1.14",
+      0.06681615170918088
+    ],
+    [
+      "code_module_FFF <= 0.00",
+      -0.0634411658445944
+    ],
+    [
+      "-0.16 < active_days_early <= 0.61",
+      -0.05201343347930294
+    ],
+    [
+      "num_of_prev_attempts <= -0.34",
+      -0.051589879009189425
+    ],
+    [
+      "region_North Western Region <= 0.00",
+      -0.044049710063344176
+    ],
+    [
+      "imd_band_0-10% <= 0.00",
+      -0.04047702223175876
+    ]
+  ]
+}

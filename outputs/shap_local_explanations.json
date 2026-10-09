@@ -1,0 +1,41 @@
+[
+  {
+    "row_index_in_sample": 0,
+    "true_label": "Fail",
+    "predicted_label": "Fail",
+    "top_shap_features": {
+      "avg_score_early": 0.20100000500679016,
+      "active_days_early": -0.14399999380111694,
+      "highest_education_Lower Than A Level": 0.12300000339746475,
+      "gender_F": 0.11100000143051147,
+      "clicks_oucontent_early": 0.0989999994635582,
+      "weighted_avg_score_early": 0.0989999994635582
+    }
+  },
+  {
+    "row_index_in_sample": 5,
+    "true_label": "Fail",
+    "predicted_label": "Fail",
+    "top_shap_features": {
+      "active_days_early": 0.4729999899864197,
+      "total_clicks_early": 0.16500000655651093,
+      "clicks_homepage_early": 0.12600000202655792,
+      "gender_F": -0.0989999994635582,
+      "avg_score_early": 0.09200000017881393,
+      "highest_education_Lower Than A Level": 0.07900000363588333
+    }
+  },
+  {
+    "row_index_in_sample": 8,
+    "true_label": "Withdrawn",
+    "predicted_label": "Pass",
+    "top_shap_features": {
+      "code_module_GGG": 0.38999998569488525,
+      "weighted_avg_score_early": -0.15199999511241913,
+      "active_days_early": -0.11299999803304672,
+      "clicks_oucontent_early": -0.07800000160932541,
+      "avg_score_early": -0.06300000101327896,
+      "code_module_DDD": 0.05900000035762787
+    }
+  }
+]

@@ -1,0 +1,33 @@
+Total students (after excluding early-withdrawals): 27538
+
+Class distribution:
+final_result
+Pass           12361
+Fail            7044
+Withdrawn       5109
+Distinction     3024
+
+Missingness (top):
+imd_band             1028
+date_registration       7
+
+Mean early clicks by outcome:
+final_result
+Distinction    568.9
+Fail           224.1
+Pass           409.5
+Withdrawn      286.2
+
+Mean early active days by outcome:
+final_result
+Distinction    19.9
+Fail           10.4
+Pass           16.5
+Withdrawn      12.9
+
+% who submitted an early assessment, by outcome:
+final_result
+Distinction    75.0
+Fail           67.2
+Pass           79.9
+Withdrawn      73.9
